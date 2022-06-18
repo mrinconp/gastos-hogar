@@ -1,3 +1,3 @@
 # Gastos 601
 
-Descripción
+Descripción proyecto
